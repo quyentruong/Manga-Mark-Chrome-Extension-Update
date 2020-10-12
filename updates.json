@@ -3,8 +3,8 @@
   "addons": {
     "{b8642f06-22cd-4147-944a-705bbb825a7c}": {
       "updates": [
-        { "version": "0.83",
-            "update_link": "" }
+        { "version": "0.93",
+            "update_link": "https://github.com/quyentruong/Manga-Mark-Chrome-Extension-Update/releases/download/v0.93/Manga.Mark.v0.93.xpi" }
         ]
     }
   }
