@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='fdmcgbkgpjiggcfpoehpfkiapofheada'>
-    <updatecheck codebase='https://github.com/quyentruong/Manga-Mark-Chrome-Extension-Update/releases/download/v0.96/Manga.Mark.v0.96.crx' version='0.96' />
+    <updatecheck codebase='https://github.com/quyentruong/Manga-Mark-Chrome-Extension-Update/releases/download/v0.97/Manga.Mark.v0.97.crx' version='0.97' />
   </app>
 </gupdate>
